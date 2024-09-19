@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(0, 0, 180);
+}
+
+p {
+    color: white;
+    text-align: justify;
+    font-family:monospace;
+    border: 7px solid white;
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid white;
+}

@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 2px;
+    border: 2px solid white;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+p.txt1 {
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: rgba(240, 240, 100, 1);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.txt2 {
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #66ccff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.txt3 {
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #99ff66;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
